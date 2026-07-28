@@ -41,7 +41,7 @@
 <br>
 
 <details open>
-<summary><b>🟡Software Engineer — </b> &nbsp;<sub>Feb 2026 – Present</sub></summary>
+<summary><b>🟡Software Engineer — </b> &nbsp;<sub> </sub></summary>
 <br>
 <code>Node.js</code> <code>React</code> <code>OpenAI API</code> <code>AWS</code> <code>MongoDB</code>
 </details>
@@ -56,7 +56,7 @@ Angular + NestJS/Node.js apps for *Travelapp*.
 </details>
 
 <details>
-<summary><b>🔵 Application Developer —</b> &nbsp;<sub>Nov 2023 – Jan 2024</sub></summary>
+<summary><b>🔵 Application Developer —</b> &nbsp;<sub> </sub></summary>
 <br>
 
 REST API integrations for *AT&T*.
