@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
 
-<h1>Hi, I'm Saranjan Pathmanesan 👋</h1>
+<h1>Hi, I'm Pathmanesan Saranjan 👋</h1>
 <h3> Aspiring UI/UX Designer Mobile & Web Developer </h3>
 
 <a href="https://linkedin.com/in/saran-jan-0481833">
