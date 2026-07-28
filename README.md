@@ -79,25 +79,6 @@ REST API integrations for *AT&T*.
 | 🪩 **[Holographic-Tilt-Login](https://github.com/Saranjan/Holographic-Tilt-Login)** | Holographic tilt-effect login card | `CSS` |
 | 🚗 **[CarCounter](https://github.com/Saranjan/CarCounter)** | Drone-view vehicle counting & tracking | `OpenCV` `Python` |
 
-<details>
-<summary><b>📦 More projects</b></summary>
-<br>
-
-| Project | Description |
-|---|---|
-| [Human-Pose-Detector](https://github.com/Saranjan/Human-Pose-Detector) | 33-landmark human pose detection with MediaPipe |
-| [CNN-TrafficSign-Detection](https://github.com/Saranjan/CNN-TrafficSign-Detection) | CNN model for traffic sign detection |
-| [CNN_DigitDetection](https://github.com/Saranjan/CNN_DigitDetection) | Digit classification & detection using CNN |
-| [Customer_Churn_Prediction](https://github.com/Saranjan/Customer_Churn_Prediction) | ANN model to predict customer churn |
-| [Attendance-Monitoring](https://github.com/Saranjan/Attendance-Monitoring) | Attendance storage to AWS S3 + local disk |
-| [Object_Detection_Mobile_APP](https://github.com/Saranjan/Object_Detection_Mobile_APP) | Mobile app for image class detection |
-| [3D-Circular-Card](https://github.com/Saranjan/3D-Circular-Card) | CSS 3D circular card interaction |
-| [water-effect](https://github.com/Saranjan/water-effect) | Interactive water ripple visual effect |
-| [XRayVision](https://github.com/Saranjan/XRayVision) | X-ray style hover reveal effect |
-| [Aruco-Markers-Detection](https://github.com/Saranjan/Aruco-Markers-Detection) | ArUco marker detection with OpenCV |
-
-</details>
-
 <br>
 
 ## 📊 GitHub Analytics
