@@ -56,7 +56,7 @@ Angular + NestJS/Node.js apps for *Travelapp*.
 </details>
 
 <details>
-<summary><b>🔵 Application Developer —</b> &nbsp;<sub> </sub></summary>
+<summary><b>🔵 Aspiring Developer —</b> &nbsp;<sub> </sub></summary>
 <br>
 
 REST API integrations for *AT&T*.
