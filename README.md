@@ -17,7 +17,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Software+Engineer;Angular+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AI+%26+SaaS+Product+Development;Currently+building+at+Canorouse+Technology" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Software+Engineer;Angular+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AI+Product+Development;Currently study at SLIIT " alt="Typing SVG">
 </a>
 
 </div>
