@@ -24,14 +24,6 @@
 
 <br>
 
-## 🖥️ whoami
-
-<div align="center">
-  <img src="./assets/whoami-ironman.svg" alt="whoami" width="100%">
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
