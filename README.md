@@ -27,7 +27,7 @@
 ## 🖥️ whoami
 
 <div align="center">
-  <img src="./Users/saraa/Downloads/assets/whoami-ironman.svg" alt="whoami" width="100%">
+  <img src="./Downloads/assets/whoami-ironman.svg" alt="whoami" width="100%">
 </div>
 
 <br>
