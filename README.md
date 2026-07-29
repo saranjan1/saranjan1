@@ -127,32 +127,7 @@ loads normally again.
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Saranjan/Saranjan/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
-<!--
-Optional add-ons — uncomment once you have the account/token:
-
-WakaTime weekly breakdown:
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
-
-Spotify now playing (via spotify-github-profile by kittinan):
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false)](https://spotify-github-profile.vercel.app)
-
-Holopin badges:
-<img src="https://holopin.me/gowtham-r03" alt="Holopin badges" />
--->
-
-<br>
-
-<div align="center">
-
-📫 **Reach me:** [saranjanp1@gmail.com](mailto:saranjanp1@gmail.com) · [LinkedIn](https://linkedin.com/in/saran-jan-0481833)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%">
-
-</div>
+</div> 
 
 name: Generate Snake
 
@@ -185,4 +160,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
+<!--
+Optional add-ons — uncomment once you have the account/token:
+
+WakaTime weekly breakdown:
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+
+Spotify now playing (via spotify-github-profile by kittinan):
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false)](https://spotify-github-profile.vercel.app)
+
+Holopin badges:
+<img src="https://holopin.me/gowtham-r03" alt="Holopin badges" />
+-->
+
+<br>
+
+<div align="center">
+
+📫 **Reach me:** [saranjanp1@gmail.com](mailto:saranjanp1@gmail.com) · [LinkedIn](https://linkedin.com/in/saran-jan-0481833)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%">
+
+</div>
 
